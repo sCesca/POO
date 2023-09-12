@@ -1,2 +1,3 @@
 # POO
-![plot](./Mind%20Map.jpg)
+## Mind Map
+  ![plot](./Mind%20Map.jpg)
