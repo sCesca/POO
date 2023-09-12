@@ -7,5 +7,5 @@
   ![plot](./UML%20Diagram.jpg)
 
 ## Referências
-  - TecnoBlog: https://tecnoblog.net/responde/o-que-e-uml/ \n
+  - TecnoBlog: https://tecnoblog.net/responde/o-que-e-uml/
   - Coursera: "Laboratório de Programação Orientada a Objetos - Parte 1 (USP)"
