@@ -1,4 +1,5 @@
 class Empregado:
+  ## constructor
   def __init__(self, nome, cpf, rg):
     self.nome = nome
     self.cpf = cpf
@@ -9,6 +10,7 @@ class Empregado:
     return 0
 
 class EmpregadoHorista(Empregado):
+   ## constructor
   def __init__(self, nome, cpf, rg, horasTrabalhadas, pagamentoPorHora):
     Empregado.__init__(self, nome, cpf, rg)
     self.horasTrabalhadas = horasTrabalhadas
@@ -18,6 +20,7 @@ class EmpregadoHorista(Empregado):
     return self.horasTrabalhadas = self.pagamentoPorHora
 
 class EmpregadoCLT(Empregado):
+   ## constructor
   def __init__(self, nome, cpf, rg, salario):
     Empregado.__init__(self, nome, cpf, rg)
     self.salario = salario
@@ -26,6 +29,7 @@ class EmpregadoCLT(Empregado):
     return 13.33333333 * self.salario
 
 class PrestadorDeServico(Empregado):
+   ## constructor
   def __init(self, nome, cpf, rg, pagamentoAvulso):
     Empregado.__init__(self, nome, cpf, rg)
     self.pagamentoAvulso = pagamentoAvulso
