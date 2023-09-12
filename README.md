@@ -3,4 +3,4 @@
   ![plot](./Mind%20Map.jpg)
 
 ## Introdução - UML
-  ![plot](./UMLDiagram.jpg)
+  ![plot](./UML%20Diagram.jpg)
