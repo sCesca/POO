@@ -16,12 +16,12 @@
 ## Exemplo de Projeto- UML
    Outros diagramas UML úteis:
    * **Estruturais**
-   * **Classes**
+   * Classes
    * Objetos
    * Componentes
    * Implantação
    * **Comportamentais**
-   * **Sequência**
+   * Sequência
    * Atividades
    * Máquina de Estados
    ![plot](./Exemplo.jpg)
