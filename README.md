@@ -13,6 +13,8 @@
    * **Agregação**: Descreve um classificador como uma parte de, ou como um subordinado a outro classificador
    * **Composição**: É um tipo de agregação onde o classificador da parte é dependente da existência do classicador todo
    ![plot](./Relações.jpg)
+## Exemplo de Projeto- UML
+   ![plot](./Exemplo.jpg)
 
 ## Referências
     - TecnoBlog: https://tecnoblog.net/responde/o-que-e-uml/
