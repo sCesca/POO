@@ -14,6 +14,16 @@
    * **Composição**: É um tipo de agregação onde o classificador da parte é dependente da existência do classicador todo
    ![plot](./Relações.jpg)
 ## Exemplo de Projeto- UML
+   Outros diagramas UML úteis:
+   * **Estruturais**
+   * **Classes**
+   * Objetos
+   * Componentes
+   * Implantação
+   * **Comportamentais**
+   * **Sequência**
+   * Atividades
+   * Máquina de Estados
    ![plot](./Exemplo.jpg)
 
 ## Referências
