@@ -15,15 +15,15 @@
    ![plot](./Relações.jpg)
 ## Exemplo de Projeto- UML
    Outros diagramas UML úteis:
-   * **Estruturais**
-   * Classes
-   * Objetos
-   * Componentes
-   * Implantação
-   * **Comportamentais**
-   * Sequência
-   * Atividades
-   * Máquina de Estados
+   * **Estruturais**\
+     Classes\
+     Objetos\
+     Componentes\
+     Implantação\
+   * **Comportamentais**\
+     Sequência\
+     Atividades\
+     Máquina de Estados\
    ![plot](./Exemplo.jpg)
 ## Linguagem Interpretada x Compilada
    * Meados de 1940: surgimento da linguagem de máquina
