@@ -38,7 +38,7 @@
 ![plot](./CompInter.jpg)
 ### Linguagem Interpretada
 Os interpretadores fazem a leitura de linha por linha, executando uma por uma. Ou seja, o código fonte é convertido diretamente para a linguagem de máquina no interpretador.
-![plot](./Inter.jpg)
+![plot](./Inter.jfif)
    
 
 ## Referências
