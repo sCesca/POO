@@ -35,6 +35,9 @@
       * LISP (1958): interpretada
       * Simula-67, Smaltalk-80: orientação a objetos
       * C, C++, Objective-C
+     ![plot](./CompInter.jpg)
+### Linguagem Interpretada
+Os interpretadores fazem a leitura de linha por linha, executando uma por uma. Ou seja, o código fonte é convertido diretamente para a linguagem de máquina no interpretador.
    
 
 ## Referências
