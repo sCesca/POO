@@ -25,6 +25,14 @@
    * Atividades
    * Máquina de Estados
    ![plot](./Exemplo.jpg)
+## Linguagem Interpretada x Compilada
+   * Meados de 1940: surgimento da linguagem de máquina
+      * 0100 0011 1010 1111 0000 1010 0001 0011
+   * Meados de 1948: surgimento da linguagem de montagem
+     * ADD AX, BX
+   * Linguagem de alto nível:
+      * FORTRAN (1967)
+      * LISP (1958)        
 
 ## Referências
     - TecnoBlog: https://tecnoblog.net/responde/o-que-e-uml/
