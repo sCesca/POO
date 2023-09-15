@@ -37,10 +37,10 @@
       * C, C++, Objective-C
 ![plot](./CompInter.jpg)
 ### Linguagem Interpretada
-Os interpretadores fazem a leitura de linha por linha, executando uma por uma. Ou seja, o código fonte é convertido diretamente para a linguagem de máquina no interpretador.
+Os interpretadores fazem a leitura de linha por linha, executando uma por uma. Ou seja, o código fonte é convertido diretamente para a linguagem de máquina no interpretador.\
 ![plot](./Inter.jfif)
 ### Linguagem Compilada
-Os compiladores são responsáveis por transformar os códigos fontes em códigos objetos, em linguagem de máquina. Para isso, eles convertem primeiro para a linguagem de montagem (Assembly) para depois transformar em linguagem de máquina.
+Os compiladores são responsáveis por transformar os códigos fontes em códigos objetos, em linguagem de máquina. Para isso, eles convertem primeiro para a linguagem de montagem (Assembly) para depois transformar em linguagem de máquina.\
 ![plot](./Comp.png)
 
 ## Referências
