@@ -12,7 +12,7 @@
    * **Dependência**: Indica que as alteraçõess em um elemento do modelo (fornecedor/independente) podem causar alterações em um outro modelo (cliente/dependente). Obs: O fornecedor não é afetado com mudanças no cliente
    * **Agregação**: Descreve um classificador como uma parte de, ou como um subordinado a outro classificador
    * **Composição**: É um tipo de agregação onde o classificador da parte é dependente da existência do classicador todo
-   ![plot](./Relações.jpg)
+![plot](./Relações.jpg)
 ## Exemplo de Projeto- UML
    Outros diagramas UML úteis:
    * **Estruturais**\
@@ -24,7 +24,7 @@
      Sequência\
      Atividades\
      Máquina de Estados\
-   ![plot](./Exemplo.jpg)
+![plot](./Exemplo.jpg)
 ## Linguagem Interpretada x Compilada
    * Meados de 1940: surgimento da linguagem de máquina
       * 0100 0011 1010 1111 0000 1010 0001 0011
@@ -35,7 +35,7 @@
       * LISP (1958): interpretada
       * Simula-67, Smaltalk-80: orientação a objetos
       * C, C++, Objective-C
-     ![plot](./CompInter.jpg)
+![plot](./CompInter.jpg)
 ### Linguagem Interpretada
 Os interpretadores fazem a leitura de linha por linha, executando uma por uma. Ou seja, o código fonte é convertido diretamente para a linguagem de máquina no interpretador.
    
