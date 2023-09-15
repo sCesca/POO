@@ -31,8 +31,11 @@
    * Meados de 1948: surgimento da linguagem de montagem
      * ADD AX, BX
    * Linguagem de alto nível:
-      * FORTRAN (1967)
-      * LISP (1958)        
+      * FORTRAN (1967): compilada
+      * LISP (1958): interpretada
+      * Simula-67, Smaltalk-80: orientação a objetos
+      * C, C++, Objective-C
+   
 
 ## Referências
     - TecnoBlog: https://tecnoblog.net/responde/o-que-e-uml/
