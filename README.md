@@ -19,7 +19,7 @@
      Classes\
      Objetos\
      Componentes\
-     Implantação\
+     Implantação
    * **Comportamentais**\
      Sequência\
      Atividades\
