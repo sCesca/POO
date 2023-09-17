@@ -43,7 +43,7 @@ Os interpretadores fazem a leitura de linha por linha, executando uma por uma. O
 Os compiladores são responsáveis por transformar os códigos fontes em códigos objetos, em linguagem de máquina. Para isso, eles convertem primeiro para a linguagem de montagem (Assembly) para depois transformar em linguagem de máquina.\
 ![plot](./imgs/Comp.png)
 ### Linguagem Híbrida
-Java nasceu em 1995 com a ideia de possibilitar com que os códigos fossem executados por quaisquer sistemas operacionais por meio da compilação e da interpretação
+Java nasceu em 1995 com a ideia de possibilitar com que os códigos fossem executados por quaisquer sistemas operacionais por meio da compilação e da interpretação\
 ![plot](./imgs/Hibrida.gif)
 
 ## Referências
