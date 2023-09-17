@@ -44,6 +44,7 @@ Os compiladores são responsáveis por transformar os códigos fontes em código
 ![plot](./imgs/Comp.png)
 ### Linguagem Híbrida
 Java nasceu em 1995 com a ideia de possibilitar com que os códigos fossem executados por quaisquer sistemas operacionais por meio da compilação e da interpretação
+![plot](./imgs/Hibrida.gif)
 
 ## Referências
     - TecnoBlog: https://tecnoblog.net/responde/o-que-e-uml/
